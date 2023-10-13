@@ -1,16 +1,28 @@
 # mod10_livetest
 
-A new Flutter project.
+# Flutter Selectable List App
 
-## Getting Started
+A Flutter app that demonstrates a selectable list with the ability to show a dialog displaying the number of selected items. The app is organized to keep the list of items in a separate file for better code structure.
 
-This project is a starting point for a Flutter application.
+## Screen Shots
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Ensure you have Flutter installed. For instructions, refer to the [Flutter Installation Guide](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+- The app presents a list of selectable items.
+- Tap on each item to toggle its selection status.
+- Press the floating action button to show a dialog displaying the number of selected items.
+- After pressing "OK" on the dialog, all items will be deselected.
+
+## Project Structure
+- main.dart: The main entry point of the Flutter app.
+- data.dart: Separated file containing the list of items.
+- MyScreen: Stateful widget representing the main screen of the app.
+
+## Contributing
+Contributions are welcome! If you have suggestions or find issues, please open an issue or create a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
