@@ -6,6 +6,13 @@ A Flutter app that demonstrates a selectable list with the ability to show a dia
 
 ## Screen Shots
 
+1. First screen showing the items
+![Screenshot_1697217423](https://github.com/ob1Kenoobi/mod10-livetest/assets/140194680/aeff0159-388b-484a-aaec-ad1921049c87)
+2. Selected items
+![Screenshot_1697217429](https://github.com/ob1Kenoobi/mod10-livetest/assets/140194680/9e729f63-0eb4-4a26-831a-3de54470e3d1)
+3. The dialog box
+![Screenshot_1697217434](https://github.com/ob1Kenoobi/mod10-livetest/assets/140194680/a033e8fd-c18f-447e-b50e-5567203771f8)
+
 ### Prerequisites
 
 - Ensure you have Flutter installed. For instructions, refer to the [Flutter Installation Guide](https://flutter.dev/docs/get-started/install).
